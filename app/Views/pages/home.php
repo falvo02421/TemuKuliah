@@ -1,1 +1,1 @@
-<h2>Home</h2>
+<?php include ('./include/main-theme/home.php');?>

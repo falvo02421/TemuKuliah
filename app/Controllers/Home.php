@@ -4,7 +4,12 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return view('beranda');
+		$dataIndex['title'] = "Dashboard";
+
+        $dataIndex['header'] = view("templates/header");
+        $dataIndex['footer'] = view("templates/footer");
+        //$dataIndex['content'] = view("admin/content");
+		return view('pages/home', $dataIndex);
 	}
 
 	//--------------------------------------------------------------------
