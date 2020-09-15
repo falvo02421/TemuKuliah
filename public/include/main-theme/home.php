@@ -44,8 +44,8 @@
       <div class="row align-items-center text-center text-md-left">
         
         <div class="col-lg-4">
-          <h1 class="mb-3 display-3">Tell Your Story to the World</h1>
-          <p>Join with us! Login or Register. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, ex!</p>
+          <h1 class="mb-3 display-3">Tryout Gratis UTBK 1.0</h1>
+          <p>Siapkan Dirimu Untuk Bersaing</p>
         </div>
         <div class="col-lg-8">
           <img src="images/1x/asset-1.png" alt="Image" class="img-fluid">    
@@ -230,79 +230,6 @@
                   </div>
                 </div>
               </div>
-
-    <div class="site-section bg-light block-13">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-md-12 text-center">
-            <h2 class="font-weight-bold text-black">Featured Guests</h2>
-          </div>
-        </div>
-        <div class="nonloop-block-13 owl-carousel">
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">            
-              <img src="images/person_1.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="">
-              <h3 class="font-weight-light h5">Megan Smith</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">            
-              <img src="images/person_2.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="">
-              <h3 class="font-weight-light h5">Brooke Cagle</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">            
-              <img src="images/person_3.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="">
-              <h3 class="font-weight-light h5">Philip Martin</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">            
-              <img src="images/person_4.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="">
-              <h3 class="font-weight-light h5">Steven Ericson</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">            
-              <img src="images/person_5.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="">
-              <h3 class="font-weight-light h5">Nathan Dumlao</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-            </div>
-          </div>
-
-          <div class="text-center p-3 p-md-5 bg-white">
-            <div class="mb-4">            
-              <img src="images/person_6.jpg" alt="Image" class="w-50 mx-auto img-fluid rounded-circle">
-            </div>
-            <div class="">
-              <h3 class="font-weight-light h5">Brook Smith</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, iusto. Aliquam illo, cum sed ea? Ducimus quos, ea?</p>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </div>
     
     <div class="site-blocks-cover overlay inner-page-cover" style="background-image: url(images/hero_bg_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
       <div class="container">
